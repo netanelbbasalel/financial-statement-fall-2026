@@ -14,6 +14,26 @@ function Home() {
         operations. This website will share our financial statements with
         investors.
       </p>
+      <div className="mt-10 p-4 bg-sky-900">
+        <button
+          type="button"
+          className="m-2 px-4 py-2 bg-red-500 text-white hover:bg-orange-500 hover:text-black"
+        >
+          Click here
+        </button>
+        <button
+          type="button"
+          className="m-2 px-4 py-2 bg-red-500 text-white hover:bg-orange-500 hover:text-black"
+        >
+          Click here
+        </button>
+        <button
+          type="button"
+          className="m-2 px-4 py-2 bg-red-500 text-white hover:bg-orange-500 hover:text-black"
+        >
+          Click here
+        </button>
+      </div>
     </div>
   )
 }
