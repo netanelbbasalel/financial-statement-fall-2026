@@ -9,6 +9,11 @@ function Home() {
       <p className="mt-4 text-lg">
         Edit <code>src/routes/index.tsx</code> to get started.
       </p>
+      <p className="mt-10 mx-8 text-xl text-green-300">
+        Casina Baked Goods is a new company. 2025 was our first full year of
+        operations. This website will share our financial statements with
+        investors.
+      </p>
     </div>
   )
 }
