@@ -20,6 +20,10 @@ export const Route = createRootRoute({
     ],
     links: [
       {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@700&family=IBM+Plex+Sans:wght@400;600;700&display=swap",
+      },
+      {
         rel: 'stylesheet',
         href: appCss,
       },
