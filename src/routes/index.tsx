@@ -10,8 +10,12 @@ function Home() {
         <p>Financial statements</p>
       </header>
       <p>
-        Kissena Baked Goods is a bakery in Astoria, Queens, New York.
-        It sells a wholesale line and accepts custom cake orders, including weddings.
+        Kissena Baked Goods is a bakery in{" "}
+        <a href="https://en.wikipedia.org/wiki/Astoria,_Queens"
+           target="_blank" rel="noopener noreferrer" className="underline">
+          Astoria, Queens, New York
+        </a>. It sells a wholesale line and accepts custom cake orders, including weddings.
+        {" "}<span>(The location link opens a new tab.)</span>
       </p>
       <p>
         Kissena Baked Goods Inc. incorporated in New York State in late 20X4
