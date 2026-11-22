@@ -34,6 +34,11 @@ function Home() {
         <li>Drivers deliver the goods to the customer.</li>
         <li>The accountant records the credit sale and accounts receivable.</li>
       </ol>
+      <h2>The year in brief</h2>
+      <p>
+        In 20X5, net sales were $1,500,000 and net income was $230,000.
+        These illustrative financial statements describe the year ended December 31, 20X5.
+      </p>
     </div>
   )
 }
