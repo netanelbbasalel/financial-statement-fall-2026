@@ -26,6 +26,14 @@ function Home() {
         <li>Cheesecake, black and white cookies, and sheet cakes</li>
         <li>Seasonal orders, including hot cross buns and tsoureki</li>
       </ul>
+      <h2>How a wholesale order is completed</h2>
+      <ol className="list-decimal pl-6">
+        <li>A customer places a wholesale order.</li>
+        <li>The manager prepares a bake sheet.</li>
+        <li>Bakers prepare and bake the ordered goods.</li>
+        <li>Drivers deliver the goods to the customer.</li>
+        <li>The accountant records the credit sale and accounts receivable.</li>
+      </ol>
     </div>
   )
 }
