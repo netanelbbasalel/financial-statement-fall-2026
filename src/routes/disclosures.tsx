@@ -34,11 +34,11 @@ function Disclosures() {
         <tbody>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge">Cost</th>
-            <td id="note-equipment-cost" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">1,402,000</td>
+            <td id="note-equipment-cost" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">1,267,000</td>
           </tr>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge">Accumulated depreciation</th>
-            <td id="note-accumulated-depreciation" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">(1,002,000)</td>
+            <td id="note-accumulated-depreciation" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">(867,000)</td>
           </tr>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge font-semibold bg-raised">Equipment and vehicles, net</th>
@@ -57,11 +57,11 @@ function Disclosures() {
         <tbody>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge">Receivables A</th>
-            <td id="note-receivables-a" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">97,600</td>
+            <td id="note-receivables-a" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">90,850</td>
           </tr>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge">Receivables B</th>
-            <td id="note-receivables-b" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">52,400</td>
+            <td id="note-receivables-b" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">59,150</td>
           </tr>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge font-semibold bg-raised">Total receivables</th>
