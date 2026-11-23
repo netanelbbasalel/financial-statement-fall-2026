@@ -49,6 +49,18 @@ function RootDocument({ children }: { children: React.ReactNode }) {
                 activeOptions={{ exact: true }}>
                 Home
               </Link>
+              <Link to="/income-statement"
+                className="text-ink-soft hover:text-ink"
+                activeProps={{ className: "font-semibold underline decoration-brand underline-offset-8" }}
+                activeOptions={{ exact: true }}>
+                Income Statement
+              </Link>
+              <Link to="/balance-sheet"
+                className="text-ink-soft hover:text-ink"
+                activeProps={{ className: "font-semibold underline decoration-brand underline-offset-8" }}
+                activeOptions={{ exact: true }}>
+                Balance Sheet
+              </Link>
               <Link to="/disclosures"
                 className="text-ink-soft hover:text-ink"
                 activeProps={{ className: "font-semibold underline decoration-brand underline-offset-8" }}
